@@ -1,7 +1,7 @@
 {
   "ardoises": [
     {
-        "id": 1 ,
+        "id": "a1" ,
       "title": "ardoise 1",
       "imgUrl": "../assets/icon/ap2010.png",
       "reseau": "connected",
@@ -9,7 +9,7 @@
       "version": "2.0.2"      
     },
     {      
-      "id": 2,
+      "id": "a2",
       "title": "ardoise 2",
       "imgUrl": "../assets/icon/ap2010.png",
       "reseau": "connected",
@@ -17,7 +17,7 @@
       "version": "2.0.2" 
     },
     {      
-      "id": 3,
+      "id": "a3",
       "title": "ardoise 3",
       "imgUrl": "../assets/icon/ap2010.png",
       "reseau": "connected",
